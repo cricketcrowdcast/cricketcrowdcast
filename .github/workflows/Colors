@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial Rounded MT Bold', sans-serif;
+  margin: 0;
+  background: #fdf6e3;
+  color: #333;
+}
+
+.hero {
+  background: linear-gradient(90deg, #3D9970, #2ECC40);
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.featured {
+  padding: 40px;
+  background: #ffe;
+  border-top: 3px solid #2ECC40;
+}
+
+button, input[type="submit"] {
+  background-color: #ff4136;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+}

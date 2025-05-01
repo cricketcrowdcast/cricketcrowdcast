@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CCC Merch – Cricket CrowdCast</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Cricket CrowdCast Shop</h1>
+    <p>Rep the commentary culture with CCC fashion and collectibles!</p>
+  </header>
+
+  <main class="shop">
+    <section class="product">
+      <img src="/images/ccc-baggy-hat.png" alt="CCC Baggy Cream Hat" width="200">
+      <h3>CCC Baggy Cream Hat</h3>
+      <p>The iconic crowdcap. Limited stock!</p>
+      <button>Add to Cart - $25</button>
+    </section>
+
+    <section class="product">
+      <img src="/images/ccc-shirt.png" alt="CCC Shirt" width="200">
+      <h3>CCC Shirt</h3>
+      <p>Chirp like a legend in this cotton beauty.</p>
+      <button>Add to Cart - $20</button>
+    </section>
+
+    <section class="product">
+      <img src="/images/ccc-ball.png" alt="Signed Cricket Ball" width="200">
+      <h3>Signed Cricket Ball</h3>
+      <p>Official merch signed by mystery crowd legend “Screamer Sid.”</p>
+      <button>Add to Cart - $40</button>
+    </section>
+  </main>
+</body>
+</html>
